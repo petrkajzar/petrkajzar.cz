@@ -8,3 +8,8 @@ body {
 li + li {
   margin-top: 1rem;
 }
+
+img.profil {
+  vertical-align: text-bottom;
+  width: 1em;
+}
