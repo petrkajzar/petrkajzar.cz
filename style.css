@@ -1,12 +1,6 @@
 body {
   line-height: 1.5;
-  margin: 0 auto;
   max-width: 42rem;
-  padding: 1rem;
-}
-
-li + li {
-  margin-top: 1rem;
 }
 
 img.profil {
